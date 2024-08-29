@@ -1,0 +1,18 @@
+.text{
+    text-align: center;
+}
+.bg{
+    background-color: aqua;
+}
+.mx-auto{
+    margin: auto ;
+}
+.flex{
+    display: flex;
+} 
+.flex-col{
+    flex-direction: column;
+}
+.item{
+    align-items: center;
+}
